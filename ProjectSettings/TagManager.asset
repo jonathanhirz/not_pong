@@ -56,3 +56,6 @@ TagManager:
   - name: ball
     uniqueID: 1126206039
     locked: 0
+  - name: targets
+    uniqueID: 2671134393
+    locked: 0
